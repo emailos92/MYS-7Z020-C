@@ -1,0 +1,2 @@
+https://github.com/q3k/zturn-stuff
+https://github.com/hauerdie/z-turn-board-hdmi-out
